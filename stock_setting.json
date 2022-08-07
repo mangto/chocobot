@@ -1,0 +1,7 @@
+{
+    "max_change":200,
+    "min_change":-200,
+    "maxprice":5000,
+    "minprice":50,
+    "cycle": 300
+}
